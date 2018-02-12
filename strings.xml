@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Category</string>
+
+    <string-array name="categoryname">
+        <item>"Education"</item>
+        <item>"Zoology"</item>
+        <item>"Geography"</item>
+        <item>"Sports"</item>
+        <item>"Films"</item>
+    </string-array>
+</resources>
